@@ -1,0 +1,9 @@
+.inicio-contenedor{
+    width: 100%;
+    height: 6vh;
+    background-color: white ;
+    border-radius: 20px;
+    margin-top: 1.8%;
+    color: rgba(78, 10, 238, 0.87);
+    margin-bottom: 30px;
+  }

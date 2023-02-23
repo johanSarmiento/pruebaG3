@@ -1,0 +1,24 @@
+.carta-contenedor{
+    width: 50%; 
+    height: 30vh;
+    justify-content: space-evenly;
+    margin-bottom: 70%;
+  }
+  .creditos-contenedor{
+    width: 40%;
+    height: 10vh;
+    background-color: white;
+    box-shadow: 10px 10px 10px rgb(180, 180, 180);
+    border-radius: 15px;
+    flex-direction: row;
+  }
+  .left-creditos{
+    width: 50%;
+    flex-direction: column;
+  }
+  .left-creditos p{
+    margin: 5px;
+  }
+  .icon-contenedor{
+    width: 50%;
+  }
